@@ -1,0 +1,17 @@
+h1 {
+  font-family: "Zen Antique", serif;
+  margin-left: 1.5%;
+  text-transform: uppercase;
+}
+
+hr {
+  border-top: 4px double #8c8b8b;
+  /*Styling for <hr> - https://codepen.io/ibrahimjabbari/pen/ozinB*/
+}
+
+img {
+  float: left;
+  width: 30%;
+  height: auto;
+  margin: 1.66%;
+}
